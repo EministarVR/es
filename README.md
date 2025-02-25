@@ -1,6 +1,7 @@
 # 🚀 Es++ Cyber Editor
 
-![Es++ Screenshot](logo.png) <!-- Hier Screenshot einfügen -->
+<img src="logo.png" alt="Es++ Screenshot" width="300"/>
+
 
 **Eine deutsche Programmiersprache für Einsteiger**  
 *Futuristischer Online-Editor mit Live-Interpreter*
