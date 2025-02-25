@@ -1,6 +1,7 @@
 # 🚀 Es++ Cyber Editor
 
-<img src="logo.png" alt="Es++ Screenshot" width="300"/>
+<img src="logo.png" alt="Es++ Screenshot" width="150"/>
+
 
 
 **Eine deutsche Programmiersprache für Einsteiger**  
